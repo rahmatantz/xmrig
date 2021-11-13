@@ -1,0 +1,2 @@
+# xmrig
+new project
